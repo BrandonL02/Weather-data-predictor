@@ -73,7 +73,7 @@ Replace `main.py` with the actual name of the Python file if needed.
 
 ## Evaluation
 
-The models are evaluated using:
+The models are evaluated using the following:
 
 * **Mean Squared Error (MSE):** Lower values indicate better performance.
 * **R² Score:** Values closer to 1 indicate better performance.
